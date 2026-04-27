@@ -1,16 +1,13 @@
-# React + Vite
+# 🌌 Ethereal Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern NFT Gallery web application built with React.js that showcases digital artworks in a clean, interactive, and responsive interface.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1920" height="1019" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/68244082-0ab8-43c6-9e02-6c2e631f3611" />
+<img width="1920" height="1017" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/a5c098fc-76f5-4992-99cd-2b69652d68e7" />
+<img width="1920" height="989" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/4db57ab6-dab7-4725-8732-8a33ec195bfe" />
+<img width="1920" height="1011" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/36f1672f-2e3f-45e5-a94f-ea931b4e56d1" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
